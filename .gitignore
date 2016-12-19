@@ -45,3 +45,5 @@ jspm_packages
 .idea/modules.xml
 
 .idea/vcs.xml
+.idea/**
+.idea/
